@@ -14,4 +14,4 @@
 **Legenda**
 
 - ⛂ Peça preta:  -2
-- ⛀ Peça branca: -3
+- ⛀ Peça branca: -5
